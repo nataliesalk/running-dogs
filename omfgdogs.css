@@ -1,0 +1,18 @@
+body
+{
+background-image: url(assets/omfgdogs.gif);
+
+}
+
+a{
+
+float:right;
+}
+
+
+p.pos_fixed
+{
+position:relative;
+top:450px;
+
+}
